@@ -12,4 +12,7 @@ public static void add(int a , int b) {
 	public static void divide (int a , int b) {
 		System.out.println(a/b);
 }
-
+public static void divide (int a , int b) {
+		System.out.println(a/b);
+}
+}
